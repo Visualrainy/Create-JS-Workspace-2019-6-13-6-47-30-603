@@ -1,3 +1,3 @@
-export function add(leftNumber, rightNumber) {
+export default function add(leftNumber, rightNumber) {
     return leftNumber + rightNumber;
 }
