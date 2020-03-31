@@ -1,0 +1,26 @@
+{
+  "name": "js-workspace",
+  "version": "1.0.0",
+  "description": "js-workspace for demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Visualrainy/Create-JS-Workspace-2019-6-13-6-47-30-603.git"
+  },
+  "keywords": [
+    "js",
+    "demo"
+  ],
+  "author": "visual",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Visualrainy/Create-JS-Workspace-2019-6-13-6-47-30-603/issues"
+  },
+  "homepage": "https://github.com/Visualrainy/Create-JS-Workspace-2019-6-13-6-47-30-603#readme",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
